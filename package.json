@@ -48,7 +48,7 @@
     "uri-template": "^1.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^4.2.1",
+    "@commitlint/cli": "^5.2.8",
     "@commitlint/config-angular": "^4.2.1",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
